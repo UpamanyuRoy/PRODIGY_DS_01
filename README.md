@@ -10,8 +10,8 @@ This task involves analyzing and visualizing population data for selected countr
 
 1. Data Loading and Exploration:
    - Load the dataset (population.csv) containing population data for various countries.
-   - Inspect the dataset using .info() and .describe() to understand its structure and summary statistics.\
-   - Check for missing values using .isnull().sum().
+   - Inspect the dataset using `.info()` and `.describe()` to understand its structure and summary statistics.
+   - Check for missing values using `.isnull().sum()`.
 
 2. Data Filtering:
    - Filter the dataset to include only selected countries: ['United States', 'Canada', 'Brazil', 'Japan', 'Germany', 'France'].
